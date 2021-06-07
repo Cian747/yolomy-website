@@ -28,4 +28,9 @@ li a {
 .opener{
     text-align: center;
     font-size: 40px;
-}  
+} 
+.main{
+    font-family: serif;
+    font-size: 20px;
+    color: black;
+} 
